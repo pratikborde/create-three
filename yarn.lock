@@ -1766,9 +1766,9 @@ tar-stream@^1.1.2:
     xtend "^4.0.0"
 
 three@*:
-  version "0.105.2"
-  resolved "https://registry.yarnpkg.com/three/-/three-0.105.2.tgz#d135f1549bdcf5a9acd904ba3dbf9198a0268984"
-  integrity sha512-L3Al37k4g3hVbgFFS251UVtIc25chhyN0/RvXzR0C+uIBToV6EKDG+MZzEXm9L2miGUVMK27W46/VkP6WUZXMg==
+  version "0.126.0"
+  resolved "https://registry.yarnpkg.com/three/-/three-0.126.0.tgz#924818341cd4441ef247e3cbf236f6160b90a216"
+  integrity sha512-/MecvboUefStCkUfXLImoJxthN+FoLPcEP7pz1r1Dd9i8BPGGuj+S1sOPRvW4Z+ViZjP2oWWm1inNC/MT52ybA==
 
 tmp@^0.0.33:
   version "0.0.33"
